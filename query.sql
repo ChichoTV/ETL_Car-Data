@@ -11,7 +11,7 @@ Fuel_capacity DECIMAL(1),
 Fuel_efficiency INT
 )
 
-CREATE USER taylor WITH password 'KIRBY30'
+CREATE USER taylor WITH password {redacted}
 ALTER USER taylor WITH SUPERUSER
 
 

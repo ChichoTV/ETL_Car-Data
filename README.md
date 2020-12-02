@@ -1,1 +1,1 @@
-# etl-challenge
+ETL process on car sales/noise data pulled from kaggle.com (full links to the data can be found in the data_locs.txt file in the data folder). The docx file explains the process and decisions that were made.
